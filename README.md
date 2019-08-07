@@ -1,6 +1,8 @@
 
 # react-native-cloudinary
 
+# update podspec (6/8/19)
+
 ## Getting started
 
 `$ npm install react-native-cloudinary --save`
